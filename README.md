@@ -1,3 +1,3 @@
 # hello-world
-Initialize this repository with a readme.
+Hello World
 New to VHDL, and strugling with the tools.
